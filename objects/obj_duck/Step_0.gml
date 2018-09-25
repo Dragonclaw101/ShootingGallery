@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 7FED3ACC
-/// @DnDArgument : "code" "//speed = x+1;$(13_10)//This is going to move the duck 5 pixels to the right every frame."
-//speed = x+1;
-//This is going to move the duck 5 pixels to the right every frame.
+/// @DnDHash : 4CCBD106
+/// @DnDArgument : "steps" "60"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 60);
