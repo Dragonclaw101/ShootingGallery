@@ -3,8 +3,11 @@
 /// @DnDHash : 3A47D881
 instance_destroy();
 
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 56D57032
-/// @DnDArgument : "code" "instance_create_layer(0, 768, "Instances", obj_duck)$(13_10)"
-instance_create_layer(0, 768, "Instances", obj_duck)
+/// @DnDHash : 767FE49D
+/// @DnDArgument : "xpos" "60"
+/// @DnDArgument : "ypos" "600"
+/// @DnDArgument : "objectid" "obj_duck"
+/// @DnDSaveInfo : "objectid" "d1910eb7-d9e4-45dd-9846-697c4e63ad0e"
+instance_create_layer(60, 600, "Instances", obj_duck);
