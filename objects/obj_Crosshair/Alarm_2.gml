@@ -10,6 +10,6 @@ instance_create_layer(irandom_range(60, 940), 600, "Instances", obj_duck);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 0C1F701F
-/// @DnDArgument : "steps" "irandom_range(45, 75)"
+/// @DnDArgument : "steps" "irandom_range(85, 125)"
 /// @DnDArgument : "alarm" "2"
-alarm_set(2, irandom_range(45, 75));
+alarm_set(2, irandom_range(85, 125));
