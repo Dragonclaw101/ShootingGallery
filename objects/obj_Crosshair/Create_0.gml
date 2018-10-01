@@ -11,3 +11,9 @@ alarm_set(2, 45);
 /// @DnDArgument : "steps" "80"
 /// @DnDArgument : "alarm" "3"
 alarm_set(3, 80);
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 0D7855C1
+/// @DnDArgument : "code" "score = 0;"
+score = 0;
