@@ -1,7 +1,5 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 5CF1883A
-/// @DnDArgument : "expr" "-1"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "bulletcount"
-bulletcount += -1;
+/// @DnDHash : 638F9EAC
+/// @DnDArgument : "code" "bulletcount -= 1;"
+bulletcount -= 1;
