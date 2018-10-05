@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "b2630e93-a31d-45bb-aff3-fe942b0cf463",
+            "Value": {
+                "id": "656036d4-0a53-4a0c-b7b8-6deba617cda9",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",
@@ -252,6 +260,14 @@
                 "id": "49950aa0-1636-4b12-893c-ab315464beb1",
                 "resourcePath": "views\\bdf57ee7-7b9b-464f-8915-99c2013def20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c33f75ba-ad5c-4a4d-bf84-5acb770d2791",
+            "Value": {
+                "id": "7c291c0e-c8ec-4a26-a5f3-e3ade36b98b1",
+                "resourcePath": "objects\\obj_GameOver\\obj_GameOver.yy",
+                "resourceType": "GMObject"
             }
         },
         {
