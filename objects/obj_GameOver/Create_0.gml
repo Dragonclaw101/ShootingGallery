@@ -1,4 +1,5 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 32F14EE5
-room_goto(noone);
+/// @DnDHash : 70BE228A
+/// @DnDArgument : "code" "instance_deactivate_all(obj_GameOver)"
+instance_deactivate_all(obj_GameOver)
