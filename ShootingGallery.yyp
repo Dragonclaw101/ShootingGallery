@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "c2c79bb8-ad0e-4b75-8c4e-73355b1f64c1",
+            "Value": {
+                "id": "58275f8c-ad5c-43cb-b753-366fc26b4257",
+                "resourcePath": "rooms\\room_bonus\\room_bonus.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c33f75ba-ad5c-4a4d-bf84-5acb770d2791",
             "Value": {
                 "id": "7c291c0e-c8ec-4a26-a5f3-e3ade36b98b1",
