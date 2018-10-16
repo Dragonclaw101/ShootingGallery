@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "3bad36d1-e339-4b16-ab20-08eafd59b36b",
+            "Value": {
+                "id": "c4c35311-3454-4d0e-826f-28e7499b1b2a",
+                "resourcePath": "rooms\\Bonus_Room\\Bonus_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3f215074-3567-49b4-b18c-b817c8c60567",
             "Value": {
                 "id": "84a95936-d1f2-48c5-bdce-ea7ae53100ba",
@@ -276,14 +284,6 @@
                 "id": "49950aa0-1636-4b12-893c-ab315464beb1",
                 "resourcePath": "views\\bdf57ee7-7b9b-464f-8915-99c2013def20.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c2c79bb8-ad0e-4b75-8c4e-73355b1f64c1",
-            "Value": {
-                "id": "58275f8c-ad5c-43cb-b753-366fc26b4257",
-                "resourcePath": "rooms\\room_bonus\\room_bonus.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
