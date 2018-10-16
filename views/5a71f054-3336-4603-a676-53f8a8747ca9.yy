@@ -5,7 +5,8 @@
     "name": "5a71f054-3336-4603-a676-53f8a8747ca9",
     "children": [
         "e60e0b19-8aef-42c0-ba82-a576d6fb2195",
-        "b5d5f750-9748-4404-b6d8-153b02b7c923"
+        "b5d5f750-9748-4404-b6d8-153b02b7c923",
+        "c5b1c282-52c0-4bb2-9828-29bf67ca0edf"
     ],
     "filterType": "GMFont",
     "folderName": "fonts",
