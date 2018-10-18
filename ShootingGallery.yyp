@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "3a1bfbe8-ec44-45d8-ad7b-eac901ad0a06",
-            "Value": {
-                "id": "f1287dcc-a756-4958-b893-abcdf6c61aa2",
-                "resourcePath": "fonts\\fnt_Joke\\fnt_Joke.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "3f215074-3567-49b4-b18c-b817c8c60567",
             "Value": {
                 "id": "84a95936-d1f2-48c5-bdce-ea7ae53100ba",
@@ -108,14 +100,6 @@
                 "id": "7ffff74e-bdaf-47c6-9881-39d91beef6e4",
                 "resourcePath": "views\\5a71f054-3336-4603-a676-53f8a8747ca9.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5c4afb11-0442-44b9-ba9f-0606c88c586e",
-            "Value": {
-                "id": "00988378-8566-421d-b415-80ddc1ed7369",
-                "resourcePath": "sprites\\spr_claw\\spr_claw.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -292,14 +276,6 @@
                 "id": "49950aa0-1636-4b12-893c-ab315464beb1",
                 "resourcePath": "views\\bdf57ee7-7b9b-464f-8915-99c2013def20.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c138226b-9c4b-4d95-bfd2-e65cc630d7c6",
-            "Value": {
-                "id": "3aacdcae-88e3-4e4d-8a88-1b7c985d70fd",
-                "resourcePath": "objects\\obj_claw\\obj_claw.yy",
-                "resourceType": "GMObject"
             }
         },
         {
